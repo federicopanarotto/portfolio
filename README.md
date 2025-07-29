@@ -24,7 +24,7 @@ This repository contains the **compiled build** (`dist/`) of my React portfolio,
 ## 🛠️ Tech Stack
 
 - **Frontend:** React
-- **Styling:** React Material UI
+- **Styling:** React Material UI + tsParticles
 - **Deployment:** Custom GitAction + GitHub Pages
 
 ## 🚀 Deploy Info
